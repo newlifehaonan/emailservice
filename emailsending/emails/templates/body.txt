@@ -1,0 +1,5 @@
+hello {{ user }}
+
+your major is {{ major }}
+
+Thank you
